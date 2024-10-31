@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">projectPAM</string>
+    <string name="action_settings">Settings</string>
+    <!-- String used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="intro_text"><font color="#000000">Satisfy Your Cravings with Our</font>\n<font color="#854811">"Fresh Cakes, Donuts </font>\n<font color="#000000">and </font><font color="#854811">Pastries"</font></string>
+    <string name="intro_subtitle">Browse the best edible from top seller \n Get personalized recommendations \n Enjoy fast, free shipping</string>
+    <string name="intro_signin">Already have an account? <font color="#854811">Sign in</font></string>
+
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet,
+        consectetur adipiscing elit. Sed do eiusmod tempor
+        incididunt ut labore et dolore magna aliqua. Ut enim
+        ad minim veniam, quis nostrud exercitation ullamco
+        laboris nisi ut aliquip ex ea commodo consequat. Duis
+        aute irure dolor in reprehenderit in voluptate velit
+        esse cillum dolore eu fugiat nulla pariatur. Excepteur
+        sint occaecat cupidatat non proident, sunt in culpa qui
+        officia deserunt mollit anim id est laborum. Curabitur pretium
+        tincidunt lacus, ut laoreet eros pharetra sit amet. Pellentesque
+        habitant morbi tristique senectus et netus et malesuada fames ac
+        turpis egestas.</string>
+
+</resources>
